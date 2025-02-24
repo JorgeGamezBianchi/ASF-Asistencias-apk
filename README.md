@@ -1,4 +1,5 @@
-# Sistema de ERP
+# ASF Asistencias
+## Aplicación movil para Android
 
 _Proyecto propio de empresa Softlution_
 <!---
@@ -62,12 +63,13 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Eñ sistema esta hecho en .Net Framework, con C#, Javascript, HTML, CSS, Razor Pages_
+_La aplicación esta creada en Android Studio, con Kotlin, Java y Jetpack Compose y cuenta con Room para base de datos local
 <!---
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 * [Maven](https://maven.apache.org/) - Manejador de dependencias
 * [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
 -->
+<!--
 ## Contribuyendo 🖇️
 
 Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
@@ -80,18 +82,21 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
+-->
+
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Jorge Gámez** - *Trabajo Inicial* - [Jorge](https://github.com/Jorge)
+* **Jorge Gámez** - *Trabajo de seguimiento y mantenimiento* - [Jorge Gámez](https://github.com/JorgeGamezBianchi)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+<!--También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. -->
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Copyrigth Softlution) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
+<!--
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
@@ -99,8 +104,8 @@ Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md
 * Da las gracias públicamente 🤓.
 * Dona con cripto a esta dirección: `0xf253fc233333078436d111175e5a76a649890000`
 * etc.
-
+-->
 
 
 ---
-⌨️ con ❤️ por [Jorge](https://github.com/Jorge) 😊
+⌨️ con ❤️ por [Jorge Gámez](https://github.com/JorgeGamezBianchi) 😊
